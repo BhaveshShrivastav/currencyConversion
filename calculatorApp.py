@@ -1,9 +1,8 @@
 # Python program A Simple Calculator App
 
-# Function to add two numbers
 from ast import main
 
-
+# Function to add two numbers
 def add(num1, num2):
 	print("Processing addition..")
 	return num1 + num2
